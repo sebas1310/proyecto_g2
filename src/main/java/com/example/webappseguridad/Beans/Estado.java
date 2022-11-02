@@ -3,7 +3,6 @@ package com.example.webappseguridad.Beans;
 public class Estado {
     private int idEstado;
     private String nombre;
-
     public int getIdEstado() {
         return idEstado;
     }
